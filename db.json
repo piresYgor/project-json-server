@@ -1,0 +1,95 @@
+{
+    "aluno":[
+        {
+            "id":1,
+            "matricula":20221234,
+            "nome":"Marcos dos Santos",
+            "idade":"15 anos",
+            "ano":"1° ano"
+        },
+        {
+            "id":2,
+            "matricula":20225678,
+            "nome":"Rodrigo Vieira",
+            "idade":"16 anos",
+            "ano":"1° ano"
+        },
+        {
+            "id":3,
+            "matricula":20220123,
+            "nome":"Natália de Oliveira",
+            "idade":"17 anos",
+            "ano":"2° ano"
+        },
+        {
+            "id":4,
+            "matricula":20221011,
+            "nome":"Ingrid Marques",
+            "idade":"18 anos",
+            "ano":"3° ano"
+        }
+    ],
+
+    "turma":[
+        {
+            "id":1,
+            "turno":"manhã",
+            "sala":104,
+            "ano":"1° ano",
+            "quantidade de alunos":30
+        },
+        {
+            "id":2,
+            "turno":"tarde",
+            "sala":104,
+            "ano":"1° ano",
+            "quantidade de alunos":35
+        },
+        {
+            "id":3,
+            "turno":"tarde",
+            "sala":"208",
+            "ano":"2° ano",
+            "quantidade de alunos":25
+        },
+        {
+            "id":4,
+            "turno":"noite",
+            "sala":"307",
+            "ano":"3° ano",
+            "quantidade de alunos":35
+        }
+    ],
+
+    "professor":[
+        {
+            "id":1,
+            "nome":"Mario Santana",
+            "disciplina":"Matemática",
+            "turno":"manhã",
+            "registro":412556971
+        },
+        {
+            "id":2,
+            "nome":"Maria Luisa ",
+            "disciplina":"Biologia",
+            "turno":"manhã e tarde",
+            "registro":515151288
+        },
+        {
+            "id":3,
+            "nome":"Oswaldo de Albuquerque",
+            "disciplina":"Filosofia",
+            "turno":"manhã e noite",
+            "registro":333210720
+        },
+        {
+            "id":4,
+            "nome":"Neuza de Paula",
+            "disciplina":"Química",
+            "turno":"tarde e noite",
+            "registro":489710001
+        }
+    ]
+    
+}
